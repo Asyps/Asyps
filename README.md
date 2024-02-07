@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Asyps
-- 👀 I’m interested in Factorio, for example
-- 🌱 I’m currently learning a lot of stuff
+Factoro ftw
 
 
 
